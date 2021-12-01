@@ -1,7 +1,14 @@
-# p-comp-week-1-labs-RayWangRui
+# Due to the automatic translation function of my browser, my folder naming is chaotic， Please go to the corresponding Chinese named folder to view the contents of the following folders
+
+#Week3 -- 第三周
+
+#Week4 -- 第四周
+
+#Portfolio of work--工作组合
+
 p-comp-week-1-labs-RayWangRui created by GitHub Classroom
 
-####This is my video link : https://www.youtube.com/watch?v=c5zaE4mR4nI
+####This is my final project video link : https://www.youtube.com/watch?v=c5zaE4mR4nI
 
 
 please see the video
