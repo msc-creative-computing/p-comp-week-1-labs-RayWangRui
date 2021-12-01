@@ -7,3 +7,4 @@ please see the video
 (better download it, any links are in my pdf document~)
 [https://github.com/msc-creative-computing/p-comp-week-1-labs-RayWangRui/blob/main/Final%20Project/FInal%20Project%20ray.pdf](https://github.com/msc-creative-computing/p-comp-week-1-labs-RayWangRui/blob/main/Final%20Project/FInal%20Project%20ray.pdf)
 
+![loveu](https://user-images.githubusercontent.com/91971211/144213264-db9c88be-a7dc-4f5b-add6-f6d7d88983ac.jpg)
